@@ -26,3 +26,8 @@
     "serve": "^11.2.0"
   }
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
